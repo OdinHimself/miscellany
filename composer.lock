@@ -4195,7 +4195,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.4 || ^8.0"
+                "php": "^7.3 || ^8.0"
             },
             "require-dev": {
                 "infection/infection": "^0.17",
@@ -4259,7 +4259,7 @@
                 "ext-mbstring": "*",
                 "ext-openssl": "*",
                 "lcobucci/clock": "^2.0",
-                "php": "^7.4 || ^8.0"
+                "php": "^7.3 || ^8.0"
             },
             "require-dev": {
                 "infection/infection": "^0.20",
